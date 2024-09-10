@@ -15,12 +15,13 @@ this is a tool that flash some cryptocoins to any wallet you want
 
 7-all the cryptocoin wallets are allowed with no errors all the wallets work
 
+8-any flashed cryptocoins the value of it appear on the explorer and the wallet as normal cryptocoins
+
 ----
 
 **text me my telegram username below to get the btc flasher tool**
 
 **#my telegram username is :@Pro_man8**
-
-i will be waiting for you to text me my friend 
+ 
 
 
