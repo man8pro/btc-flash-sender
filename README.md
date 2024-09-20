@@ -21,6 +21,8 @@ this is a tool that flash some cryptocoins to any wallet you want
 
 **text me my telegram username below to get the btc flasher tool**
 
+**NOTE:the software is not free**
+
 **#my telegram username is :@Pro_man8**
  
 
